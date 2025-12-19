@@ -1,0 +1,7 @@
+1.git stash
+2.git checkout main
+3.(исправляем баг, коммитим в main)
+4.it checkout feature/junior-task
+5.git stash pop
+6.git commit --amend -m "Новое сообщение"
+7.git push --force-with-lease (если коммит уже был запушен)
